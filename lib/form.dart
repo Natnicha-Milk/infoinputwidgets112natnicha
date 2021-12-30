@@ -84,7 +84,7 @@ class _FormMeState extends State<FormMe> {
                     Padding(
                       padding: EdgeInsets.only(left: 0.0),
                       child: Text(
-                        '-----กรุณากรอกเลือกชั้นปีที่ศึกษา-----',
+                        '-----กรุณาเลือกชั้นปีที่ศึกษา-----',
                         style: GoogleFonts.mitr(
                           fontSize: 18,
                         ),
@@ -98,7 +98,7 @@ class _FormMeState extends State<FormMe> {
                     Padding(
                       padding: EdgeInsets.only(left: 0.0),
                       child: Text(
-                        '-----กรุณากรอกเลือกหลักสูตรที่ศึกษา-----',
+                        '-----กรุณาเลือกหลักสูตรที่ศึกษา-----',
                         style: GoogleFonts.mitr(
                           fontSize: 18,
                         ),
@@ -112,7 +112,7 @@ class _FormMeState extends State<FormMe> {
                     Padding(
                       padding: EdgeInsets.only(left: 0.0),
                       child: Text(
-                        '-----กรุณากรอกเลือกคณะที่ศึกษา-----',
+                        '-----กรุณาเลือกคณะที่ศึกษา-----',
                         style: GoogleFonts.mitr(
                           fontSize: 18,
                         ),
@@ -131,7 +131,7 @@ class _FormMeState extends State<FormMe> {
                     Padding(
                       padding: EdgeInsets.only(left: 0.0),
                       child: Text(
-                        '-----กรุณากรอกเลือกอาหารที่ชอบ-----',
+                        '-----กรุณาเลือกอาหารที่ชอบ-----',
                         style: GoogleFonts.mitr(
                           fontSize: 18,
                         ),
